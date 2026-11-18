@@ -1,0 +1,6 @@
+{
+  "name": "RIT Student Hub – Campus Connect",
+  "description": "Centralized digital campus platform for students of Rajeev Institute of Technology, Hassan to explore events, access learning resources, and join student technical clubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
